@@ -2,3 +2,4 @@
 llllllllllllll @edit by lhc
 yyyyyyyyyyyyyyyyy@edit by ybq
 lhc：到此一游
+ssh test @edit by ybq
